@@ -1,7 +1,7 @@
-package com.SpringBootJpaL2CacheReadOnly.service;
+package com.SpringBootJpaL2CacheReadWrite.service;
 
-import com.SpringBootJpaL2CacheReadOnly.entity.UserDetails;
-import com.SpringBootJpaL2CacheReadOnly.repository.UserDetailsRepository;
+import com.SpringBootJpaL2CacheReadWrite.entity.UserDetails;
+import com.SpringBootJpaL2CacheReadWrite.repository.UserDetailsRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

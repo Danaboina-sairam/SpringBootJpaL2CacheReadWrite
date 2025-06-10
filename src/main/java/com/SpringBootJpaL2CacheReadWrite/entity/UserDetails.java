@@ -1,4 +1,4 @@
-package com.SpringBootJpaL2CacheReadOnly.entity;
+package com.SpringBootJpaL2CacheReadWrite.entity;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

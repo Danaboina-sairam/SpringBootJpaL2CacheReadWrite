@@ -1,10 +1,10 @@
-package com.SpringBootJpaL2CacheReadOnly;
+package com.SpringBootJpaL2CacheReadWrite;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringBootJpaL2CacheReadOnlyApplicationTests {
+class SpringBootJpaL2CacheReadWriteApplicationTests {
 
 	@Test
 	void contextLoads() {

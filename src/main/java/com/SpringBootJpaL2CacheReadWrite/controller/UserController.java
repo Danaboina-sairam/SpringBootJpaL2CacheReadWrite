@@ -1,7 +1,7 @@
-package com.SpringBootJpaL2CacheReadOnly.controller;
+package com.SpringBootJpaL2CacheReadWrite.controller;
 
-import com.SpringBootJpaL2CacheReadOnly.entity.UserDetails;
-import com.SpringBootJpaL2CacheReadOnly.service.UserDetailService;
+import com.SpringBootJpaL2CacheReadWrite.entity.UserDetails;
+import com.SpringBootJpaL2CacheReadWrite.service.UserDetailService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
